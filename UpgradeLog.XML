@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Mp3Rename">
+</Property><Property Name="Solution File" Value="D:\DOT NET Projects\_Other\Mp3Rename\Mp3Rename.sln">
+</Property><Property Name="User Options File" Value="D:\DOT NET Projects\_Other\Mp3Rename\Mp3Rename.suo">
+</Property><Property Name="Date" Value="2. července 2009">
+</Property><Property Name="Time" Value="14:16">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Mp3Rename.sln" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Mp3Rename.suo" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename.suo">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\Mp3Rename.csproj" Description="Project file successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename\Mp3Rename.csproj">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\AppSettings.cs" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename\AppSettings.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\Form1.cs" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\Form1.Designer.cs" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\Program.cs" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename\Program.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\app.config" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename\app.config">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\Properties\Settings.settings" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\iTunes.ico" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename\iTunes.ico">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\Form1.resx" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\Properties\Resources.resx" Description="File successfully backed up as D:\DOT NET Projects\_Other\Mp3Rename\Backup\Mp3Rename\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\Mp3Rename.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Mp3Rename" Source="Mp3Rename\Mp3Rename.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Mp3Rename.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Mp3Rename.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Mp3Rename" Source="Mp3Rename\Mp3Rename.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
